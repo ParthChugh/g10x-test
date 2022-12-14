@@ -1,3 +1,3 @@
 export const PARTH = () => {
-	return "parth"
+	return "chugh"
 }

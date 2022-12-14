@@ -1,3 +1,3 @@
 export const CHUGH = () => {
-	return "chugh"
+	return "parth"
 }
