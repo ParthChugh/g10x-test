@@ -1,3 +1,5 @@
 export const CHUGH = () => {
-	return "parth"
+	const value = 1
+
+	return `${value} parth chugh ${value}`
 }
