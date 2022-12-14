@@ -1,3 +1,4 @@
 export const PARTH = () => {
-	return "Some random name"
+	const newValue = 11
+	return `Some ${newValue} random name`
 }

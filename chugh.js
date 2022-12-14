@@ -1,3 +1,4 @@
 export const CHUGH = () => {
-	return "Some random name"
+	const newValue = 11
+	return `Some ${newValue} random name`
 }
